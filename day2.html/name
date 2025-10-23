@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="color">
+        
+    <h1 class="home"><u>Home</u></h1>
+    <h1 class="head1">Portfolio:</h1>
+    <p>   </p>
+    
+    
+    <b><a href="home.html" class="div1">Home</a></b>
+    <b><a href="education.html" class="div1">Education</a></b>
+    <b><a href="projects.html" class="div1">Projects&internships</a></b>
+    
+    <p>  </p>
+    <h1 class="head2">Chollangi Navya sri durga:</h1>
+    <h2>_________________________________________________________________________________________________________ </h2>
+    <img class="nn" src="‪C:\Users\admin\Documents\sri.jpgimage.png"/ width="300" height="250">
+    <p class="p1">Im a frontend developer i known about the HTML,CSS,JAVASCRIPT for basic level</br>
+    and i knwn about some common programming languages like Python,c,c++ and i complete</br>
+    some mini projects using frontend tools that projects are mini calculator and one</br>
+    small game that is rock,paper,scissor projects.</p>
+    <h3>Contact:</h3>
+    <a href="chollanginavyasridurga@gmail.com">Gmail</a>
+    <a href="Linkdin">linkdin</a>
+    <a href="Instagram">Instagram</a>
+    <p>     </p>
+
+    </div> 
+</body>
+
+<style>
+    .div1{
+        background-color: aqua;
+        padding: 20px;
+        border: 2px solid red;
+        border-radius: 20px;
+    }
+    p{
+        margin-top: 1cm;
+    }
+    .head1{
+        font-family:'Courier New', Courier, monospace;
+        color:aquamarine;
+        padding: 20px;
+        border: 2px solid rgb(168, 202, 82);
+        border-radius: 20px;
+        background-color: rgb(95, 122, 181);
+    }
+    .head2{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    .p1{
+        word-spacing: 4px;
+    }
+    img{
+        border-radius: 50cm;
+    }
+    body{
+        background-color: rgb(31, 3, 57);
+    }
+    .color{
+        color:aliceblue
+    }
+    a{
+        background-color: aqua;
+        padding: 10px;
+        border: 2px;
+        border-radius: 10px;
+
+    }
+    h3{
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .home{
+        color:rgb(23, 228, 129)
+    }
+    h2{
+        color:goldenrod
+    }
+    .nn{
+        border: 3px solid rgb(197, 165, 165);
+    }
+    
+    
+    
+
+
+
+</style>
+
+
+
+</html>
